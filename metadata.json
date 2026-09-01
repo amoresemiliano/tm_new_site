@@ -1,0 +1,6 @@
+{
+  "name": "El Criollo",
+  "description": "App oficial de El Criollo Taquería en Madrid. Pide a domicilio, reserva tu mesa, acumula puntos en el Club Taquero y disfruta el auténtico sazón mexicano.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
